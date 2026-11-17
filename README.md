@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salut, moi c’est Mateo 👋
 
-<!--
-**Mtx-Gz/Mtx-GZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant à **CODA Orléans**, je me forme au développement informatique.  
+💻 J’apprends à concevoir des projets et à donner vie à mes idées grâce au code.  
+🚀 Je progresse projet après projet et je suis toujours curieux de découvrir de nouvelles technologies.
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Étudiant à l’école CODA à Orléans
+- 🌱 En cours d’apprentissage du développement informatique
+- 🛠️ J’aime apprendre en pratiquant et en réalisant des projets
+- 🤝 Ouvert aux échanges, aux conseils et aux projets collaboratifs
+- 📍 Orléans, France
+
+*Merci de visiter mon profil !*
